@@ -12,7 +12,7 @@
 ---
 ### Analysis of Outcomes Based on Launch Date
 ---
-Theatrical play campaigns from May of 2009 to March of 2017 
+###### Theatrical play campaigns from May of 2009 to March of 2017.  
 ---
 ### Analysis of Outcomes Based on Goals
 ---
