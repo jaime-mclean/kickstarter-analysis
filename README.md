@@ -39,6 +39,6 @@ This analysis looks at the actionable variables of launch date and campaign goal
 ---
 ## Results
 ---
-The data indicates that May is the optimal time to launch a campaign, with June and July both being feasible but not ideal. Campaign goals under $5,000 have nearly a 3 in 4 chance of being funded, with campaigns up to $20,000 still having a 50% or greater chance of full funding. For the highest probability of success, launch the campaign in May with a goal of <$5,000. 
+The data indicates that May is the optimal time to launch a campaign, with June and July both being feasible but not ideal. Campaign goals under $5,000 have nearly a 3 in 4 chance of being funded, with campaigns up to $20,000 still having a 50% or greater chance of full funding. For the highest probability of success, launch the campaign in May with a goal of <$5,000. Should the goal exceed $5,000 I wld recommend a more granular analysis, using both the launch date and campaign goal to determine the best launch timing for higher dollar campaigns.
 
 ---
