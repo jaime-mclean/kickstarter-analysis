@@ -4,7 +4,7 @@
 ---
 ### Purpose
 ---
-###### This report summarizes data on both successful and failed kickstarted campaigns for plays in the US. Historical trends of campaign outcomes by launch dates and campaign goal amounts are tracked.
+This report summarizes data on both successful and failed kickstarted campaigns for plays in the US. The project dollar amounts and starting month are tracked to determine the best targets for a successfully funded campaign.
 ---
 ## Analysis and Challenges
 ---
