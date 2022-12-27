@@ -4,10 +4,12 @@
 ## Overview of Project
 
 ---
-### Purpose ###
+### Purpose
 
 ---
 This report summarizes data on both successful and failed kickstarted campaigns for plays in the US. The project dollar amounts and starting month are tracked to determine the best targets for a successfully funded campaign.
+
+This is a new paragraph.
 ---
 ## Analysis and Challenges
 ---
