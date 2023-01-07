@@ -13,9 +13,9 @@ This report summarizes data on both successful and failed kickstarter campaigns 
 ## Analysis and Challenges
 
 ---
-The data summarized here is based on actionable, quantifiable variables. The timing of the campaign launch and the monetary campaign goals are straightforward measures of success, but these are not the only factor in the success of a campaign. Unquantifiable data, such as the name of the play and the information provided in the blurb will impact the number of backers, and the level of support backers are willing to provide. 
+The data summarized here is based on actionable, quantifiable variables. The timing of the campaign launch and the monetary campaign goals are straightforward measures of success, but these are not the only factor in the success of a campaign. Unquantifiable data, such as the name of the play and the information provided in the description will impact the number of backers, and the level of support backers are willing to provide. This analysis is limited by these factors.
 
-Not unexpectedly, the succesful campaigns have on average more backers (63 for successful campaigns vs 8 for failed campaigns) and higher average donations ($93 for successful campaigns vs $50 for failed campaigns). While this information is worth noting for monioring the campaign once iut is launched, this is not data that can be acted upon.
+Not unexpectedly, the succesful campaigns have on average more backers (63 for successful campaigns vs 8 for failed campaigns) and higher average donations ($93 for successful campaigns vs $50 for failed campaigns). While this information is worth noting for monitoring the campaign once it is launched, this is not data that can be acted upon prior to campaign launch.
 
 ---
 ### Analysis of Outcomes Based on Launch Date
@@ -34,11 +34,11 @@ The average success rate for all theater campaigns in the US is 61.3%. May has t
 ---
 ### Challenges and Difficulties Encountered
 ---
-This analysis looks at the actionable variables of launch date and campaign goals separately. These factors do provide adequate guidance for when to launch and reasonable budgetary goals for a successful campaign. Keeping in mind that there is an unquantifiable marketing aspect of the play name and the provided description that can impact the interest of potential backers, both the timing and the goals of successful campaigns are apparent in this analysis.
+This analysis looks at the actionable variables of launch date and campaign goals separately. These factors do provide  guidance for when to launch and reasonable budgetary goals for a successful campaign. Keeping in mind that there is an unquantifiable marketing aspect of the play name and the provided description that can impact the interest of potential backers, both the timing and the goals of successful campaigns are apparent in this analysis.
 
 ---
 ## Results
 ---
-The data indicates that May is the optimal time to launch a campaign, with June and July both being feasible but not ideal. Campaign goals under $5,000 have nearly a 3 in 4 chance of being funded, with campaigns up to $20,000 still having a 50% or greater chance of full funding. For the highest probability of success, launch the campaign in May with a goal of <$5,000. Should the goal exceed $5,000 I wld recommend a more granular analysis, using both the launch date and campaign goal to determine the best launch timing for higher dollar campaigns.
+The data indicates that May is the optimal time to launch a campaign, with June and July both being feasible but not ideal. Campaign goals under $5,000 have nearly a 3 in 4 chance of being funded, with campaigns up to $20,000 still having a 50% or greater chance of full funding. For the highest probability of success, launch the campaign in May with a goal of <$5,000. Should the goal exceed $5,000 I would recommend a more granular analysis, using both the launch date and campaign goal to determine the best launch timing for higher dollar campaigns.
 
 ---
